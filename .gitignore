@@ -1,7 +1,8 @@
+#ignore files from src
 src/logo.svg
 src/App.css
 src/setupTests.js
-App.test.js
+/App.test.js
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
